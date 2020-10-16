@@ -25,7 +25,7 @@ The argparser library helps me to input in the terminal with the commands.
 Extraction of data is done using kaggle. For training, testing and Building, refer to our blog on medium @DSC JNNCE.
 The contributors for this project are:
 1.	Ananya Kumar
-2.	Chetna Prabhu
+2.	Chethana Prabhu
 3.	Nidhishree M P
 4.	Shashank G S
 5.	Mayur Suresh
